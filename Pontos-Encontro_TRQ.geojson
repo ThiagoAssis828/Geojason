@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "Pontos-Encontro_TRQ",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "PE-01", "y": -18.726277835771103, "x": -42.268557581237232 }, "geometry": { "type": "Point", "coordinates": [ -42.268557581237232, -18.726277835771103 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-02", "y": -18.72847976, "x": -42.26737607 }, "geometry": { "type": "Point", "coordinates": [ -42.26737607, -18.72847976 ] } },
+{ "type": "Feature", "properties": { "ID": "PEi-01", "y": -18.718228943676792, "x": -42.26237772081727 }, "geometry": { "type": "Point", "coordinates": [ -42.26237772081727, -18.718228943676792 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-03", "y": -18.71995535929852, "x": -42.256271935083873 }, "geometry": { "type": "Point", "coordinates": [ -42.256271935083873, -18.71995535929852 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-04", "y": -18.70716057, "x": -42.25309881 }, "geometry": { "type": "Point", "coordinates": [ -42.25309881, -18.70716057 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-05", "y": -18.705599326832122, "x": -42.244272166484627 }, "geometry": { "type": "Point", "coordinates": [ -42.244272166484627, -18.705599326832122 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-06", "y": -18.705501731494639, "x": -42.242809561246013 }, "geometry": { "type": "Point", "coordinates": [ -42.24280956124602, -18.705501731494639 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-07", "y": -18.71569662, "x": -42.24061205 }, "geometry": { "type": "Point", "coordinates": [ -42.24061205, -18.71569662 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-08", "y": -18.71076098, "x": -42.24033538 }, "geometry": { "type": "Point", "coordinates": [ -42.24033538, -18.71076098 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-09", "y": -18.70971702, "x": -42.23739773 }, "geometry": { "type": "Point", "coordinates": [ -42.23739773, -18.70971702 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-10", "y": -18.70908284, "x": -42.23067525 }, "geometry": { "type": "Point", "coordinates": [ -42.23067525, -18.70908284 ] } },
+{ "type": "Feature", "properties": { "ID": "PE-11", "y": -18.71366826, "x": -42.22614957 }, "geometry": { "type": "Point", "coordinates": [ -42.22614957, -18.71366826 ] } }
+]
+}
